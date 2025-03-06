@@ -1,4 +1,4 @@
-# Data-types-part-1
+# Data-types-part-1.py
 
 #list = []
 fruits = ["mango", "apple", "banana", "orange"]
